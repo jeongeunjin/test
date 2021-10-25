@@ -1,0 +1,1132 @@
+{
+	"name": "entity",
+	"children": [
+		{
+			"name": "vehicle",
+			"children": [
+				{
+					"name": "airplane"
+				},
+				{
+					"name": "ambulance"
+				},
+				{
+					"name": "bus_(vehicle)"
+				},
+				{
+					"name": "cab_(taxi)"
+				},
+				{
+					"name": "camper_(vehicle)"
+				},
+				{
+					"name": "car_(automobile)"
+				},
+				{
+					"name": "cruise_ship"
+				},
+				{
+					"name": "police_cruiser"
+				},
+				{
+					"name": "fire_engine"
+				},
+				{
+					"name": "helicopter"
+				},
+				{
+					"name": "motorcycle"
+				},
+				{
+					"name": "train_(railroad_vehicle)"
+				},
+				{
+					"name": "truck"
+				},
+				{
+					"name": "yacht"
+				},
+				{
+					"name": "taxi"
+				}
+			]
+		},
+		{
+			"name": "animal",
+			"children": [
+				{
+					"name": "alligator"
+				},
+				{
+					"name": "bear"
+				},
+				{
+					"name": "cow"
+				},
+				{
+					"name": "camel"
+				},
+				{
+					"name": "cat"
+				},
+				{
+					"name": "crab_(animal)"
+				},
+				{
+					"name": "deer"
+				},
+				{
+					"name": "dog"
+				},
+				{
+					"name": "dolphin"
+				},
+				{
+					"name": "elephant"
+				},
+				{
+					"name": "frog"
+				},
+				{
+					"name": "giant_panda"
+				},
+				{
+					"name": "giraffe"
+				},
+				{
+					"name": "goat"
+				},
+				{
+					"name": "gorilla"
+				},
+				{
+					"name": "hamster"
+				},
+				{
+					"name": "hippopotamus"
+				},
+				{
+					"name": "horse"
+				},
+				{
+					"name": "lion"
+				},
+				{
+					"name": "rabbit"
+				},
+				{
+					"name": "seashell"
+				},
+				{
+					"name": "sheep"
+				},
+				{
+					"name": "snake"
+				},
+				{
+					"name": "tiger"
+				},
+				{
+					"name": "turtle"
+				},
+				{
+					"name": "wolf"
+				},
+				{
+					"name": "zebra"
+				},
+				{
+					"name": "pig"
+				}
+			]
+		},
+		{
+			"name": "fruit",
+			"children": [
+				{
+					"name": "apple"
+				},
+				{
+					"name": "banana"
+				},
+				{
+					"name": "cherry"
+				},
+				{
+					"name": "coconut"
+				},
+				{
+					"name": "grape"
+				},
+				{
+					"name": "lemon"
+				},
+				{
+					"name": "orange_(fruit)"
+				},
+				{
+					"name": "peach"
+				},
+				{
+					"name": "pear"
+				},
+				{
+					"name": "strawberry"
+				},
+				{
+					"name": "watermelon"
+				},
+				{
+					"name": "berry"
+				}
+			]
+		},
+		{
+			"name": "aquarium"
+		},
+		{
+			"name": "award"
+		},
+		{
+			"name": "baby_buggy"
+		},
+		{
+			"name": "bag",
+			"children": [
+				{
+					"name": "backpack"
+				},
+				{
+					"name": "handbag"
+				},
+				{
+					"name": "shoulder_bag"
+				}
+			]
+		},
+		{
+			"name": "ball",
+			"children": [
+				{
+					"name": "baseball"
+				},
+				{
+					"name": "soccer_ball"
+				},
+				{
+					"name": "basketball"
+				}
+			]
+		},
+		{
+			"name": "toy",
+			"children": [
+				{
+					"name": "balloon"
+				},
+				{
+					"name": "doll"
+				},
+				{
+					"name": "kite"
+				},
+				{
+					"name": "Lego"
+				},
+				{
+					"name": "sparkler_(fireworks)"
+				},
+				{
+					"name": "teddy_bear"
+				}
+			]
+		},
+		{
+			"name": "sports equipment",
+			"children": [
+				{
+					"name": "baseball_bat"
+				},
+				{
+					"name": "baseball_glove"
+				},
+				{
+					"name": "helmet"
+				},
+				{
+					"name": "parachute"
+				},
+				{
+					"name": "roller_skate"
+				},
+				{
+					"name": "skateboard"
+				},
+				{
+					"name": "ski"
+				},
+				{
+					"name": "sled"
+				},
+				{
+					"name": "snowboard"
+				},
+				{
+					"name": "surfboard"
+				},
+				{
+					"name": "tennis_racket"
+				}
+			]
+		},
+		{
+			"name": "container",
+			"children": [
+				{
+					"name": "basket"
+				},
+				{
+					"name": "bucket"
+				},
+				{
+					"name": "can"
+				},
+				{
+					"name": "cooler_(for_food)"
+				},
+				{
+					"name": "jar"
+				}
+			]
+		},
+		{
+			"name": "plumbing fixture",
+			"children": [
+				{
+					"name": "bathtub"
+				},
+				{
+					"name": "faucet"
+				}
+			]
+		},
+		{
+			"name": "hat",
+			"children": [
+				{
+					"name": "beanie"
+				},
+				{
+					"name": "cap_(headwear)"
+				}
+			]
+		},
+		{
+			"name": "furniture",
+			"children": [
+				{
+					"name": "bed"
+				},
+				{
+					"name": "bench"
+				},
+				{
+					"name": "bookcase"
+				},
+				{
+					"name": "cabinet"
+				},
+				{
+					"name": "chair"
+				},
+				{
+					"name": "clock"
+				},
+				{
+					"name": "desk"
+				},
+				{
+					"name": "lamp"
+				},
+				{
+					"name": "sofa"
+				},
+				{
+					"name": "table"
+				}
+			]
+		},
+		{
+			"name": "bell"
+		},
+		{
+			"name": "fashion accessory",
+			"children": [
+				{
+					"name": "belt"
+				},
+				{
+					"name": "crown"
+				},
+				{
+					"name": "earring"
+				},
+				{
+					"name": "glove"
+				},
+				{
+					"name": "goggles"
+				},
+				{
+					"name": "handkerchief"
+				},
+				{
+					"name": "headband"
+				},
+				{
+					"name": "necklace"
+				},
+				{
+					"name": "necktie"
+				},
+				{
+					"name": "ring"
+				},
+				{
+					"name": "scarf"
+				},
+				{
+					"name": "spectacles"
+				},
+				{
+					"name": "sunglasses"
+				},
+				{
+					"name": "tiara"
+				},
+				{
+					"name": "umbrella"
+				},
+				{
+					"name": "watch"
+				}
+			]
+		},
+		{
+			"name": "bicycle",
+			"children": [
+				{
+					"name": "tricycle"
+				}
+			]
+		},
+		{
+			"name": "tool",
+			"children": [
+				{
+					"name": "binoculars"
+				},
+				{
+					"name": "camera"
+				},
+				{
+					"name": "hairbrush"
+				},
+				{
+					"name": "headlight"
+				},
+				{
+					"name": "hose"
+				}
+			]
+		},
+		{
+			"name": "bird",
+			"children": [
+				{
+					"name": "chicken_(animal)"
+				},
+				{
+					"name": "duck"
+				},
+				{
+					"name": "eagle"
+				},
+				{
+					"name": "goose"
+				},
+				{
+					"name": "gull"
+				},
+				{
+					"name": "penguin"
+				}
+			]
+		},
+		{
+			"name": "dessert",
+			"children": [
+				{
+					"name": "birthday_cake"
+				},
+				{
+					"name": "cake"
+				},
+				{
+					"name": "icecream"
+				},
+				{
+					"name": "candy"
+				},
+				{
+					"name": "chocolate"
+				}
+			]
+		},
+		{
+			"name": "blackboard"
+		},
+		{
+			"name": "blanket"
+		},
+		{
+			"name": "boat"
+		},
+		{
+			"name": "book"
+		},
+		{
+			"name": "tableware",
+			"children": [
+				{
+					"name": "bottle"
+				},
+				{
+					"name": "bowl"
+				},
+				{
+					"name": "cup"
+				},
+				{
+					"name": "dish"
+				},
+				{
+					"name": "fork"
+				},
+				{
+					"name": "mug"
+				},
+				{
+					"name": "plate"
+				},
+				{
+					"name": "spoon"
+				},
+				{
+					"name": "teapot"
+				},
+				{
+					"name": "tray"
+				},
+				{
+					"name": "glass"
+				}
+			]
+		},
+		{
+			"name": "office supplies",
+			"children": [
+				{
+					"name": "box"
+				},
+				{
+					"name": "envelope"
+				},
+				{
+					"name": "notebook"
+				}
+			]
+		},
+		{
+			"name": "bread"
+		},
+		{
+			"name": "clothes",
+			"children": [
+				{
+					"name": "bridal_gown"
+				},
+				{
+					"name": "cape"
+				},
+				{
+					"name": "coat"
+				},
+				{
+					"name": "costume"
+				},
+				{
+					"name": "dress"
+				},
+				{
+					"name": "jacket"
+				},
+				{
+					"name": "jersey"
+				},
+				{
+					"name": "pajamas"
+				},
+				{
+					"name": "raincoat"
+				},
+				{
+					"name": "shirt"
+				},
+				{
+					"name": "skirt"
+				},
+				{
+					"name": "suit_(clothing)"
+				},
+				{
+					"name": "sweater"
+				},
+				{
+					"name": "swimsuit"
+				},
+				{
+					"name": "underwear"
+				},
+				{
+					"name": "vest"
+				},
+				{
+					"name": "hanbok"
+				}
+			]
+		},
+		{
+			"name": "vegetable",
+			"children": [
+				{
+					"name": "broccoli"
+				},
+				{
+					"name": "carrot"
+				},
+				{
+					"name": "cucumber"
+				},
+				{
+					"name": "potato"
+				},
+				{
+					"name": "tomato"
+				},
+				{
+					"name": "bean"
+				}
+			]
+		},
+		{
+			"name": "candle"
+		},
+		{
+			"name": "card"
+		},
+		{
+			"name": "flower",
+			"children": [
+				{
+					"name": "carnation"
+				},
+				{
+					"name": "sunflower"
+				}
+			]
+		},
+		{
+			"name": "snack",
+			"children": [
+				{
+					"name": "crisp_(potato_chip)"
+				},
+				{
+					"name": "cracker"
+				}
+			]
+		},
+		{
+			"name": "tree",
+			"children": [
+				{
+					"name": "Christmas_tree"
+				}
+			]
+		},
+		{
+			"name": "cigarette"
+		},
+		{
+			"name": "place",
+			"children": [
+				{
+					"name": "clock_tower"
+				},
+				{
+					"name": "windmill"
+				},
+				{
+					"name": "amusement_park"
+				},
+				{
+					"name": "aquarium_place"
+				},
+				{
+					"name": "art_gallery"
+				},
+				{
+					"name": "basketball_court"
+				},
+				{
+					"name": "beach"
+				},
+				{
+					"name": "bookstore"
+				},
+				{
+					"name": "garden"
+				},
+				{
+					"name": "campsite"
+				},
+				{
+					"name": "church"
+				},
+				{
+					"name": "forest"
+				},
+				{
+					"name": "ice_skating_rink"
+				},
+				{
+					"name": "lake"
+				},
+				{
+					"name": "mountain"
+				},
+				{
+					"name": "museum"
+				},
+				{
+					"name": "ocean"
+				},
+				{
+					"name": "park"
+				},
+				{
+					"name": "playground"
+				},
+				{
+					"name": "shopping_mall"
+				},
+				{
+					"name": "ski_resort"
+				},
+				{
+					"name": "sky"
+				},
+				{
+					"name": "baseball_stadium"
+				},
+				{
+					"name": "soccer_stadium"
+				},
+				{
+					"name": "stage"
+				},
+				{
+					"name": "swimming_pool"
+				},
+				{
+					"name": "water_park"
+				},
+				{
+					"name": "waterfall"
+				}
+			]
+		},
+		{
+			"name": "computer equipment",
+			"children": [
+				{
+					"name": "computer_keyboard"
+				},
+				{
+					"name": "laptop_computer"
+				},
+				{
+					"name": "speaker_(stero_equipment)"
+				},
+				{
+					"name": "monitor_(computer_equipment) computer_monitor"
+				},
+				{
+					"name": "mouse_(computer_equipment)"
+				}
+			]
+		},
+		{
+			"name": "control"
+		},
+		{
+			"name": "cork_(bottle_plug)"
+		},
+		{
+			"name": "personal care",
+			"children": [
+				{
+					"name": "crutch"
+				},
+				{
+					"name": "life_jacket"
+				},
+				{
+					"name": "mask"
+				},
+				{
+					"name": "wheelchair"
+				}
+			]
+		},
+		{
+			"name": "curtain"
+		},
+		{
+			"name": "cushion"
+		},
+		{
+			"name": "home appliance",
+			"children": [
+				{
+					"name": "dispenser"
+				},
+				{
+					"name": "fan"
+				},
+				{
+					"name": "hair_dryer"
+				},
+				{
+					"name": "heater"
+				},
+				{
+					"name": "television"
+				},
+				{
+					"name": "vacuum_cleaner"
+				},
+				{
+					"name": "automatic_washer"
+				}
+			]
+		},
+		{
+			"name": "musical_instrument",
+			"children": [
+				{
+					"name": "drum_(musical_instrument)"
+				},
+				{
+					"name": "guitar"
+				},
+				{
+					"name": "piano"
+				}
+			]
+		},
+		{
+			"name": "earphone"
+		},
+		{
+			"name": "food",
+			"children": [
+				{
+					"name": "egg"
+				},
+				{
+					"name": "fish_(food)"
+				},
+				{
+					"name": "mushroom"
+				},
+				{
+					"name": "salad"
+				},
+				{
+					"name": "sandwich"
+				},
+				{
+					"name": "steak_(food)"
+				},
+				{
+					"name": "sushi"
+				},
+				{
+					"name": "chicken_(food)"
+				},
+				{
+					"name": "rice"
+				},
+				{
+					"name": "pilaf"
+				},
+				{
+					"name": "beef_curry"
+				},
+				{
+					"name": "chicken_rice"
+				},
+				{
+					"name": "fried_noodle"
+				},
+				{
+					"name": "spaghetti"
+				},
+				{
+					"name": "cutlet"
+				},
+				{
+					"name": "steamed_meat_dumpling"
+				},
+				{
+					"name": "jiaozi"
+				},
+				{
+					"name": "kimbob"
+				}
+			]
+		},
+		{
+			"name": "kitchen_appliance",
+			"children": [
+				{
+					"name": "refrigerator"
+				},
+				{
+					"name": "oven"
+				},
+				{
+					"name": "stove"
+				}
+			]
+		},
+		{
+			"name": "fire_extinguisher"
+		},
+		{
+			"name": "fireplace"
+		},
+		{
+			"name": "fish",
+			"children": [
+				{
+					"name": "seahorse"
+				},
+				{
+					"name": "shark"
+				}
+			]
+		},
+		{
+			"name": "fishing_rod"
+		},
+		{
+			"name": "flag"
+		},
+		{
+			"name": "beverage",
+			"children": [
+				{
+					"name": "fruit_juice"
+				},
+				{
+					"name": "milk"
+				}
+			]
+		},
+		{
+			"name": "kitchenware",
+			"children": [
+				{
+					"name": "frying_pan"
+				}
+			]
+		},
+		{
+			"name": "gift_wrap"
+		},
+		{
+			"name": "globe"
+		},
+		{
+			"name": "grill"
+		},
+		{
+			"name": "fast food",
+			"children": [
+				{
+					"name": "hamburger"
+				},
+				{
+					"name": "pizza"
+				},
+				{
+					"name": "french_fries"
+				},
+				{
+					"name": "hot_dog"
+				}
+			]
+		},
+		{
+			"name": "hammock"
+		},
+		{
+			"name": "heart"
+		},
+		{
+			"name": "hot-air_balloon"
+		},
+		{
+			"name": "pants",
+			"children": [
+				{
+					"name": "jean"
+				},
+				{
+					"name": "short_pants"
+				}
+			]
+		},
+		{
+			"name": "kitchen utensil",
+			"children": [
+				{
+					"name": "knife"
+				},
+				{
+					"name": "pot"
+				}
+			]
+		},
+		{
+			"name": "liquor"
+		},
+		{
+			"name": "magazine"
+		},
+		{
+			"name": "mailbox_(at_home)"
+		},
+		{
+			"name": "map"
+		},
+		{
+			"name": "medicine"
+		},
+		{
+			"name": "microphone"
+		},
+		{
+			"name": "mirror"
+		},
+		{
+			"name": "newspaper"
+		},
+		{
+			"name": "pad"
+		},
+		{
+			"name": "painting"
+		},
+		{
+			"name": "person"
+		},
+		{
+			"name": "phonograph_record"
+		},
+		{
+			"name": "pillow"
+		},
+		{
+			"name": "tobacco_pipe"
+		},
+		{
+			"name": "postbox_(public)"
+		},
+		{
+			"name": "quilt"
+		},
+		{
+			"name": "shoe",
+			"children": [
+				{
+					"name": "sandal_(type_of_shoe)"
+				},
+				{
+					"name": "slipper_(footwear)"
+				}
+			]
+		},
+		{
+			"name": "sculpture",
+			"children": [
+				{
+					"name": "snowman"
+				}
+			]
+		},
+		{
+			"name": "sleeping_bag"
+		},
+		{
+			"name": "weapon",
+			"children": [
+				{
+					"name": "sword"
+				}
+			]
+		},
+		{
+			"name": "bathroom accessory",
+			"children": [
+				{
+					"name": "towel"
+				}
+			]
+		},
+		{
+			"name": "vending_machine"
+		},
+		{
+			"name": "wagon"
+		},
+		{
+			"name": "wallet"
+		},
+		{
+			"name": "insect"
+		},
+		{
+			"name": "mat"
+		},
+		{
+			"name": "hand_writting"
+		},
+		{
+			"name": "plant"
+		}
+	]
+}
